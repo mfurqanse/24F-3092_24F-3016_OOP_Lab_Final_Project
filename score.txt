@@ -1,0 +1,4 @@
+Score Log -- Treasury: 1105, Army: 10
+Score Log -- Treasury: 1000, Army: 0
+Score Log -- Treasury: 1200, Army: 233
+Score Log -- Treasury: 1000, Army: 1222
